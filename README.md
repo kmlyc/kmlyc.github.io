@@ -1,37 +1,16 @@
-## Welcome to GitHub Pages
+# Lovepage
+一个表白网页
 
-You can use the [editor on GitHub](https://github.com/kmlyc/kmlyc.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+运行效果
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+![](https://upload-images.jianshu.io/upload_images/5590388-e00e2f240f2fe714.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
-### Markdown
+![](https://upload-images.jianshu.io/upload_images/5590388-95a8fde4bff01c27.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+![](https://upload-images.jianshu.io/upload_images/5590388-a8747671d6f7e613.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
-```markdown
-Syntax highlighted code block
+![](https://upload-images.jianshu.io/upload_images/5590388-006a14b5c35850b8.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
-# Header 1
-## Header 2
-### Header 3
+![](https://upload-images.jianshu.io/upload_images/5590388-49ff99bd1d115ab4.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/kmlyc/kmlyc.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+![](https://upload-images.jianshu.io/upload_images/5590388-50d8739434107c04.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
