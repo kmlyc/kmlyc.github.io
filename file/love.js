@@ -168,7 +168,7 @@
 
             ctx.moveTo(0, 0);
             ctx.scale(0.75, 0.75);
-            ctx.font = "20px Verdana"; // 字号肿么没有用? (ˉ(∞)ˉ)
+            ctx.font = "15px Verdana"; // 字号肿么没有用? (ˉ(∞)ˉ)
             ctx.fillText("Come Baby", 23, 10);
             ctx.restore();
         },
